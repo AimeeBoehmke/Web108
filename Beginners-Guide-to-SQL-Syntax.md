@@ -1,4 +1,4 @@
-# MySQL Cheat Sheet
+# Beginners Guide to SQL Syntax 
 
 ## Command to login to MySQL from the terminal
 
